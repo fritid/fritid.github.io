@@ -1,27 +1,26 @@
 # Site settings
-title: Your awesome title
-tagline: And Tagline
-email: gayanvirajith@gmail.com
+title: Troels Just Christoffersen
+tagline: Web Developer
+email: troelsjc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m a professional UI/UX designrer and web developer. 
-  I love being minimal and creative.
-baseurl: "/gaya" # the subpath of your site, e.g. /blog/
-url: "http://gayan.me" # the base hostname & protocol for your site
+  Hi, I do web development. I also enjoy keeping bees.
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
-author: "Tom Warlker"
+author: "Troels Just Christoffersen"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
 # Theme customization - please change from the defaults!
-theme:
+theme: blue
   # Color for sidebar bar, links, etc
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
-  social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +gayanvirajith
+  social:
+    github: troelsjc
+    twitter: troelsjc
+    facebook: troelsjc
+    gplus: +112978704941149685318
     # dribble: gayanvirajith
-    pinterest: gayanvirajith
+    pinterest: turiiya
 
   # Enable share buttons on post footer
   show_share_buttons: true
@@ -33,8 +32,8 @@ theme:
   # disqus_shortname: gaya-webcreate
 
   # Google Analytics/Webmaster key, leave blank to ignore
-  google_analytics_key: 
-  google_webmaster_key: 
+  google_analytics_key: UA-69669507-1
+  google_webmaster_key:
 
 # Build settings
 markdown: kramdown
@@ -46,7 +45,7 @@ permalink:        pretty
 paginate: 5
 
 # Files/Folders to be excluded from generated _site folder
-exclude: 
+exclude:
   - CNAME
   - Gemfile
   - Rakefile
