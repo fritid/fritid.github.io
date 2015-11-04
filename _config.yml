@@ -4,7 +4,7 @@ tagline: Web Developer
 email: troelsjc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi, I do web development. I also enjoy keeping bees.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "/_site" # the subpath of your site, e.g. /blog/
 url: "http://troelsjc.github.io" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
 author: "Troels Just Christoffersen"
