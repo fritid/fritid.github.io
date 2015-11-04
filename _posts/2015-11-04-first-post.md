@@ -4,8 +4,6 @@ title:  "Hello"
 date:   2015-11-04 15:38:02
 description: Welcome.
 categories:
-- the
-- beginning
 permalink: intro-post
 ---
 
