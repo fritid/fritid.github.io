@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Introductory text"
+title:  "Hello"
 date:   2015-11-04 15:38:02
-description: Personal website.
+description: Welcome.
 categories:
-- intro
+- the
+- beginning
 permalink: intro-post
 ---
 
