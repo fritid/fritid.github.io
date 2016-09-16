@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/troels
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://troelsjc.github.io
+  * I am troels (https://keybase.io/troels) on keybase.
+  * I have a public key ASB5XgY0HIWpWYhQuL3PvcoIBoR8f5vcTzSyjvlim4Lbcgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120795e06341c85a9598850b8bdcfbdca0806847c7f9bdc4f34b28ef9629b82db720a",
+            "host": "keybase.io",
+            "kid": "0120795e06341c85a9598850b8bdcfbdca0806847c7f9bdc4f34b28ef9629b82db720a",
+            "uid": "4429522f2226a55633295165dcbe2719",
+            "username": "troels"
+        },
+        "service": {
+            "hostname": "troelsjc.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.5"
+    },
+    "ctime": 1449587369,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1449587314,
+        "hash": "0d937482eeca2778291d6d22b728346a801d998eae713d50c1745e2577456c1760a3a7fa71b85320eb605318c46e99f3b24d26f57ac5a6d865770a28049de526",
+        "seqno": 331336
+    },
+    "prev": "8ac136e20e6600c549e50c5703d4ba59725dbcdc164debaf726ee979edb06788",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeV4GNByFqVmIULi9z73KCAaEfH+b3E80so75YpuC23IKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzk1ZTA2MzQxYzg1YTk1OTg4NTBiOGJkY2ZiZGNhMDgwNjg0N2M3ZjliZGM0ZjM0YjI4ZWY5NjI5YjgyZGI3MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzk1ZTA2MzQxYzg1YTk1OTg4NTBiOGJkY2ZiZGNhMDgwNjg0N2M3ZjliZGM0ZjM0YjI4ZWY5NjI5YjgyZGI3MjBhIiwidWlkIjoiNDQyOTUyMmYyMjI2YTU1NjMzMjk1MTY1ZGNiZTI3MTkiLCJ1c2VybmFtZSI6InRyb2VscyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidHJvZWxzamMuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNSJ9LCJjdGltZSI6MTQ0OTU4NzM2OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDQ5NTg3MzE0LCJoYXNoIjoiMGQ5Mzc0ODJlZWNhMjc3ODI5MWQ2ZDIyYjcyODM0NmE4MDFkOTk4ZWFlNzEzZDUwYzE3NDVlMjU3NzQ1NmMxNzYwYTNhN2ZhNzFiODUzMjBlYjYwNTMxOGM0NmU5OWYzYjI0ZDI2ZjU3YWM1YTZkODY1NzcwYTI4MDQ5ZGU1MjYiLCJzZXFubyI6MzMxMzM2fSwicHJldiI6IjhhYzEzNmUyMGU2NjAwYzU0OWU1MGM1NzAzZDRiYTU5NzI1ZGJjZGMxNjRkZWJhZjcyNmVlOTc5ZWRiMDY3ODgiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEA5q9xoWkqiQM9Ne87omD1JFm8AfagmiD6ZdXewQ2Ltsn7vck94K065wgBwnKK168mzFB4OQxdiAiihau791yQLqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/troels
+
+==================================================================
